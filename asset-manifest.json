@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/formic_and_yup/static/css/main.f9ef01ee.css",
-    "main.js": "/formic_and_yup/static/js/main.415a78d1.js",
+    "main.js": "/formic_and_yup/static/js/main.6623376f.js",
     "index.html": "/formic_and_yup/index.html",
     "main.f9ef01ee.css.map": "/formic_and_yup/static/css/main.f9ef01ee.css.map",
-    "main.415a78d1.js.map": "/formic_and_yup/static/js/main.415a78d1.js.map"
+    "main.6623376f.js.map": "/formic_and_yup/static/js/main.6623376f.js.map"
   },
   "entrypoints": [
     "static/css/main.f9ef01ee.css",
-    "static/js/main.415a78d1.js"
+    "static/js/main.6623376f.js"
   ]
 }
