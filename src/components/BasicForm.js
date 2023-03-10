@@ -51,7 +51,7 @@ const BasicForm = () => {
             <input
                 value={values.cpassword}
                 onChange={handleChange}
-                id="cpassword" type="password" placeholder="Enter your Confirm Password" onBlur={handleBlur}  className={errors.cpassword && touched.cpassword ? "input-error":""}/>
+                id="cpassword" type="password" placeholder="Re-enter password again" onBlur={handleBlur}  className={errors.cpassword && touched.cpassword ? "input-error":""}/>
             {errors.cpassword && touched.cpassword && <p className='error'>{errors.cpassword.message}</p> }
             <div style={{display:"flex",justifyContent:"center"}}>
 
